@@ -1,0 +1,60 @@
+<html> 
+    <title>block telas wiki</title>
+    <body>
+        <header>
+            <h1>review:Block telas</h1>
+        </header>
+        <main>
+            <nav>
+                <a>homepage</a>
+                <a>important</a>
+                <a>locations</a>
+            </nav>
+            <div class="Infor1">
+                <div class="quest-info">
+                    <h1>Quest 1</h1>
+                </div>
+                <div class="idk">
+                    <img src="https://res-console.cloudinary.com/dvu4vysga/media_explorer_thumbnails/6eca0563a9da15c83da8a8885390a5d9/detailed" width="200px" height="150px"/>
+                    <p>is a maze when the hand come to you,you need use the srowd to hit the hand if you didn't not do that the hand well make you go to the start.  </p>
+                </div>
+            </div>
+            <div class="Infor1">
+                 <div class="quest-info">
+                    <h1>Quest 2</h1>
+                </div>
+                <div class="idk">
+                    <img src="https://res-console.cloudinary.com/dvu4vysga/media_explorer_thumbnails/884514eb4348b7c75727b5e45372cd59/detailed" width="200px" height="150px"/>
+                    <p>you need to follow the signs of the weather </p>
+                </div>
+            </div>
+             <div class="Infor1">
+                <div class="quest-info">
+                    <h1>Quest 3</h1>
+                </div>
+                <div class="idk">
+                    <img src="https://res-console.cloudinary.com/dvu4vysga/media_explorer_thumbnails/91e036da32e3c4fc5955626a2edd2ff3/detailed" width="200px" height="150px"/>
+                    <p>do not listen to sign </p>
+                </div>
+            </div>
+             <div class="Infor1">
+                <div class="quest-info">
+                    <h1>Quest 4</h1>
+                </div>
+                <div class="idk">
+                    <img src="https://res-console.cloudinary.com/dvu4vysga/media_explorer_thumbnails/6eca0563a9da15c83da8a8885390a5d9/detailed" width="200px" height="150px"/>
+                    <p>do not listen to sign `</p>
+                </div>
+            </div>
+             <div class="Infor1">
+                <div class="quest-info">
+            </div>
+       <footer>
+           <img src="https://cdn2.steamgriddb.com/logo_thumb/0c3ae34b5f0ec854e193cdff17b362f4.png">
+           <div class="footerInfo">
+               <p>review:block telas</p>
+               <p>thank for join the wed lol</p>
+           </div>
+       </footer>
+   </body>
+</html>
